@@ -64,7 +64,7 @@
             "editor.tabSize": 2
         },
 
-        "typescript.tsdk": "e-management/node_modules/typescript/lib",
+        "typescript.tsdk": "node_modules/typescript/lib",
         "typescript.tsserver.enableTracing": true,
         "typescript.tsserver.trace": "verbose"
     }
