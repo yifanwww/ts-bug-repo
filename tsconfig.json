@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "isolatedModules": true,
+        "baseUrl": ".",
+        "rootDir": "src",
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "noEmit": true
+    },
+    "include": ["src"]
+}
