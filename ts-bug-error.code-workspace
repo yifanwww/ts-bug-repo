@@ -66,6 +66,7 @@
 
         "typescript.tsdk": "node_modules/typescript/lib",
         "typescript.tsserver.enableTracing": true,
+        "typescript.tsserver.log": "verbose",
         "typescript.tsserver.trace": "verbose"
     }
 }
